@@ -1,0 +1,66 @@
+{
+  "ClF3": {
+    "formula": "ClF3",
+    "geometry": "T-shaped",
+    "electron_geometry": "Trigonal bipyramidal",
+    "electrons": 28,
+    "approximate_angles": "87.5 and 175",
+    "note": "Two equatorial lone pairs"
+  },
+  "IF5": {
+    "formula": "IF5",
+    "geometry": "Square pyramidal",
+    "electron_geometry": "Octahedral",
+    "electrons": 42,
+    "approximate_angles": "82, 89, 164 (distorted from ideal 90 and 180)",
+    "note": "One lone pair"
+  },
+  "NO2-": {
+    "formula": "NO2-",
+    "geometry": "Bent",
+    "electron_geometry": "Trigonal planar",
+    "electrons": 18,
+    "approximate_angles": "115",
+    "note": "Two equivalent resonance contributors; bond order 1.5; total charge -1"
+  },
+  "H2O": {
+    "formula": "H2O",
+    "geometry": "Bent",
+    "electron_geometry": "Tetrahedral",
+    "electrons": 8,
+    "approximate_angles": "104.5",
+    "note": "Two lone pairs"
+  },
+  "NH3": {
+    "formula": "NH3",
+    "geometry": "Trigonal pyramidal",
+    "electron_geometry": "Tetrahedral",
+    "electrons": 8,
+    "approximate_angles": "107",
+    "note": "One lone pair"
+  },
+  "CH4": {
+    "formula": "CH4",
+    "geometry": "Tetrahedral",
+    "electron_geometry": "Tetrahedral",
+    "electrons": 8,
+    "approximate_angles": "109.5",
+    "note": "No lone pairs"
+  },
+  "CO2": {
+    "formula": "CO2",
+    "geometry": "Linear",
+    "electron_geometry": "Linear",
+    "electrons": 16,
+    "approximate_angles": "180",
+    "note": "Two double bonds"
+  },
+  "SF6": {
+    "formula": "SF6",
+    "geometry": "Octahedral",
+    "electron_geometry": "Octahedral",
+    "electrons": 48,
+    "approximate_angles": "90, 180",
+    "note": "Expanded valence-shell model"
+  }
+}
