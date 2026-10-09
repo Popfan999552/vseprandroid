@@ -1,4 +1,4 @@
-package com.example.vsepr
+package com.popfan999552.moleculestudio
 import org.junit.Assert.*
 import org.junit.Test
 class ChemistryTest {

@@ -1,4 +1,4 @@
-package com.example.vsepr
+package com.popfan999552.moleculestudio
 
 import android.os.Bundle
 import android.graphics.Paint

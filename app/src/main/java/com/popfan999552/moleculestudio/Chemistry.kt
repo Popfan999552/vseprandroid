@@ -1,4 +1,4 @@
-package com.example.vsepr
+package com.popfan999552.moleculestudio
 
 data class Ligand(val symbol: String, val order: Int = 1, val pairs: Int = 3, val charge: Int = 0)
 data class Molecule(val formula: String, val center: String, val pairs: Int, val ligands: List<Ligand>, val geometry: String, val electronGeometry: String, val angles: String, val electrons: Int, val charge: Int = 0, val note: String = "") {
